@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(53, 53, 204);
+}
+* {
+    padding: 0.2rem;
+}
+#contenedor {
+    margin-top: 15%;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.7) 0px 3px 8px;
+
+}
+
+#contenedor button {
+    min-width: 40px;
+    border-radius: 30px;
+}
+
+#vidas {
+    text-align: left;
+    color: rgb(53, 53, 204);
+}
+
+#numeroIntroducido {
+    border-radius: 30px;
+    border-width: 1px;
+}
